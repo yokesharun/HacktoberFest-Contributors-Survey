@@ -28,7 +28,9 @@ To calculate How many People are contributing in Hacktoberfest 2018 (Easy to Rai
 ## HACKTOBERFEST 2018 CONTRIBUTORS LIST
 
 * [yokesharun](https://github.com/yokesharun)
+* [sulokit](https://github.com/sulokit)
 * [gaurav-lalchandani](https://github.com/gaurav-lalchandani)
+
 
 
 Happy HacktoberFest
