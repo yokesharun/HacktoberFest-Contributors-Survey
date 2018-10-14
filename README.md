@@ -6,14 +6,14 @@ To calculate How many People are contributing in Hacktoberfest 2018 (Easy to Rai
 * Fork this repository
 * Clone your repository
 * Open this README.md file
-* Add your name and github URL
+* Add your username and github URL
 ```
-* [username](https://github.com/username)
+* [<YOUR_USERNAME>](https://github.com/<YOUR_USERNAME>)
 ```
-* Then open the contributors.js file
-* Add your name and github URL
+* Then open the `contributors.json` file
+* Add your username
 ```
-{"username":"yokesharun"},
+{"username":"<YOUR_USERNAME>"}
 ```
 * Commit and push it
 * Raise a Pull Request
