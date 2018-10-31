@@ -32,6 +32,7 @@ To calculate How many People are contributing in Hacktoberfest 2018 (Easy to Rai
 * [gaurav-lalchandani](https://github.com/gaurav-lalchandani)
 * [roninmittal](https://github.com/roninmittal)
 * [pmathur98](https://github.com/pmathur98)
+* [deepsmathur25](https://github.com/deepsmathur25)
 
 
 
