@@ -35,5 +35,6 @@ To calculate How many People are contributing in Hacktoberfest Every Year (Easy 
 * [pmathur98](https://github.com/pmathur98)
 * [deepsmathur25](https://github.com/deepsmathur25)
 * [sbartstv](https://github.com/sbartstv)
+* [Rajat1999](https://github.com/Rajat1999)
 
 Happy HacktoberFest
