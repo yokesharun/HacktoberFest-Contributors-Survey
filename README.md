@@ -37,7 +37,7 @@ To calculate How many People are contributing in Hacktoberfest Every Year (Easy 
 * [sbartstv](https://github.com/sbartstv)
 
 * [joamarderije](https://github.com/joamarderije)
-
+* [constant-variable](https://github.com/constant-variable)
 
 * [anacodes](https://github.com/anacodes)
 
