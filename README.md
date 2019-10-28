@@ -3,6 +3,7 @@ To calculate How many People are contributing in Hacktoberfest Every Year (Easy 
 
 ### How to Raise a Pull Request
 
+* Star this repository
 * Fork this repository
 * Clone your repository
 * Open this README.md file
